@@ -1,7 +1,7 @@
 # Wine Quality Prediction
   
 ## 1) Introduction 
-- The wine dataset download from https://www.kaggle.com/competitions/playground-series-s3e5/data?select=sample_submission.csv
+- The wine dataset download from [Kaggle](https://www.kaggle.com/competitions/playground-series-s3e5/data?select=sample_submission.csv) 
 
 - Nowadays, wine is being enjoyed by an increasing number of consumers. In order to safeguard human health, wine certification and quality assessment are the key elements. Certification prevents illegal wine adulteration and ensures quality in the wine market. Quality assessment is usually part of the certification process and can be used to improve the winemaking and to stratify wines, such as premium brands.
 - <b> Wine certification </b> is usually assessed through physicochemical and organoleptic tests. The physicochemical laboratory tests typically used to characterize wines include the determination of density, alcohol concentration or pH, while sensory testing relies heavily on human experts.
